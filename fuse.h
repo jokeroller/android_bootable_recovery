@@ -55,6 +55,7 @@ struct fuse_kstatfs {
  uint64_t ffree;
  uint32_t bsize;
  uint32_t namelen;
+ /*I hvan't do anything*/
 /* WARNING: DO NOT EDIT, AUTO-GENERATED CODE - SEE TOP FOR INSTRUCTIONS */
  uint32_t frsize;
  uint32_t padding;
